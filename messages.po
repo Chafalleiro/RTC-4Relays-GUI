@@ -1,0 +1,646 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-28 12:56+0200\n"
+"PO-Revision-Date: 2018-06-28 13:02+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"X-Generator: Poedit 2.0.8\n"
+
+#: guidialog.cpp:36
+msgid "Time Statuses"
+msgstr "Estados de tiempo"
+
+#: guidialog.cpp:39
+msgid "RTC Time"
+msgstr "Tiempo RTC"
+
+#: guidialog.cpp:41 guidialog.cpp:53
+msgid "hh:mm:ss  DD/MM/AAAA"
+msgstr ""
+
+#: guidialog.cpp:51
+msgid "System Time"
+msgstr "Hora del sistema"
+
+#: guidialog.cpp:59
+msgid "Sync RTC to system"
+msgstr "Sincronizar con reloj del sistema"
+
+#: guidialog.cpp:71
+msgid "&About"
+msgstr "&Acerca de"
+
+#: guidialog.cpp:77
+msgid "&Quit"
+msgstr "&Salir"
+
+#: guidialog.cpp:86
+msgid "Serial config"
+msgstr "Configurar puerto serie"
+
+#: guidialog.cpp:93
+msgid ""
+"Select a serial port to comunicate \n"
+"with the device"
+msgstr "Seleccione un puerto serie para comunicarse con el dispositivo"
+
+#: guidialog.cpp:97
+msgid "Select Serial Port"
+msgstr "Seleccione Puerto serie"
+
+#: guidialog.cpp:102
+msgid "50"
+msgstr ""
+
+#: guidialog.cpp:103
+msgid "75"
+msgstr ""
+
+#: guidialog.cpp:104
+msgid "110"
+msgstr ""
+
+#: guidialog.cpp:105
+msgid "134"
+msgstr ""
+
+#: guidialog.cpp:106
+msgid "150"
+msgstr ""
+
+#: guidialog.cpp:107
+msgid "200"
+msgstr ""
+
+#: guidialog.cpp:108
+msgid "300"
+msgstr ""
+
+#: guidialog.cpp:109
+msgid "600"
+msgstr ""
+
+#: guidialog.cpp:110
+msgid "1200"
+msgstr ""
+
+#: guidialog.cpp:111
+msgid "1800"
+msgstr ""
+
+#: guidialog.cpp:112
+msgid "2400"
+msgstr ""
+
+#: guidialog.cpp:113
+msgid "4800"
+msgstr ""
+
+#: guidialog.cpp:114
+msgid "9600"
+msgstr ""
+
+#: guidialog.cpp:115
+msgid "19200"
+msgstr ""
+
+#: guidialog.cpp:116
+msgid "38400"
+msgstr ""
+
+#: guidialog.cpp:117
+msgid "57600"
+msgstr ""
+
+#: guidialog.cpp:118
+msgid "115200"
+msgstr ""
+
+#: guidialog.cpp:119
+msgid "128000"
+msgstr ""
+
+#: guidialog.cpp:120
+msgid "230400"
+msgstr ""
+
+#: guidialog.cpp:122
+msgid ""
+"Port speed, don't change this unless\n"
+"you know you're doing"
+msgstr ""
+"Velocidad del puerto,no cambiar\n"
+" a menos que se sepa lo que se hace"
+
+#: guidialog.cpp:126
+msgid "Select Port Speed"
+msgstr "Velocidad del puerto"
+
+#: guidialog.cpp:130
+msgid "Combo!"
+msgstr ""
+
+#: guidialog.cpp:131 guidialog.cpp:291 guidialog.cpp:315 guidialog.cpp:341
+#: guidialog.cpp:379 guidialog.cpp:397 guidialog.cpp:423 guidialog.cpp:459
+#: guidialog.cpp:477 guidialog.cpp:503 guidialog.cpp:539 guidialog.cpp:557
+#: guidialog.cpp:583 guidialog.cpp:617 guidialog.cpp:635 guidialog.cpp:661
+#: guidialog.cpp:695 guidialog.cpp:713 guidialog.cpp:739 guidialog.cpp:773
+#: guidialog.cpp:791 guidialog.cpp:817 guidialog.cpp:851 guidialog.cpp:869
+#: guidialog.cpp:895
+msgid "4"
+msgstr ""
+
+#: guidialog.cpp:132 guidialog.cpp:292 guidialog.cpp:316 guidialog.cpp:341
+#: guidialog.cpp:380 guidialog.cpp:398 guidialog.cpp:423 guidialog.cpp:460
+#: guidialog.cpp:478 guidialog.cpp:503 guidialog.cpp:540 guidialog.cpp:558
+#: guidialog.cpp:583 guidialog.cpp:618 guidialog.cpp:636 guidialog.cpp:661
+#: guidialog.cpp:696 guidialog.cpp:714 guidialog.cpp:739 guidialog.cpp:774
+#: guidialog.cpp:792 guidialog.cpp:817 guidialog.cpp:852 guidialog.cpp:870
+#: guidialog.cpp:895
+msgid "5"
+msgstr ""
+
+#: guidialog.cpp:133 guidialog.cpp:293 guidialog.cpp:317 guidialog.cpp:341
+#: guidialog.cpp:381 guidialog.cpp:399 guidialog.cpp:423 guidialog.cpp:461
+#: guidialog.cpp:479 guidialog.cpp:503 guidialog.cpp:541 guidialog.cpp:559
+#: guidialog.cpp:583 guidialog.cpp:619 guidialog.cpp:637 guidialog.cpp:661
+#: guidialog.cpp:697 guidialog.cpp:715 guidialog.cpp:739 guidialog.cpp:775
+#: guidialog.cpp:793 guidialog.cpp:817 guidialog.cpp:853 guidialog.cpp:871
+#: guidialog.cpp:895
+msgid "6"
+msgstr ""
+
+#: guidialog.cpp:134 guidialog.cpp:294 guidialog.cpp:318 guidialog.cpp:341
+#: guidialog.cpp:382 guidialog.cpp:400 guidialog.cpp:423 guidialog.cpp:462
+#: guidialog.cpp:480 guidialog.cpp:503 guidialog.cpp:542 guidialog.cpp:560
+#: guidialog.cpp:583 guidialog.cpp:620 guidialog.cpp:638 guidialog.cpp:661
+#: guidialog.cpp:698 guidialog.cpp:716 guidialog.cpp:739 guidialog.cpp:776
+#: guidialog.cpp:794 guidialog.cpp:817 guidialog.cpp:854 guidialog.cpp:872
+#: guidialog.cpp:895
+msgid "7"
+msgstr ""
+
+#: guidialog.cpp:135 guidialog.cpp:319 guidialog.cpp:401 guidialog.cpp:481
+#: guidialog.cpp:561 guidialog.cpp:639 guidialog.cpp:717 guidialog.cpp:795
+#: guidialog.cpp:873
+msgid "8"
+msgstr ""
+
+#: guidialog.cpp:137
+msgid ""
+"Data bit lenght, don't change this unless\n"
+"you know you're doing"
+msgstr ""
+
+#: guidialog.cpp:141
+msgid "Data bits"
+msgstr ""
+
+#: guidialog.cpp:146
+msgid "Even"
+msgstr ""
+
+#: guidialog.cpp:147
+msgid "Odd"
+msgstr ""
+
+#: guidialog.cpp:148 guidialog.cpp:173 guidialog.cpp:176
+msgid "None"
+msgstr ""
+
+#: guidialog.cpp:149
+msgid "Mark"
+msgstr ""
+
+#: guidialog.cpp:150
+msgid "Space"
+msgstr ""
+
+#: guidialog.cpp:152
+msgid ""
+"Parity check don't change this unless\n"
+"you know you're doing"
+msgstr ""
+
+#: guidialog.cpp:156
+msgid "Parity"
+msgstr ""
+
+#: guidialog.cpp:161 guidialog.cpp:288 guidialog.cpp:341 guidialog.cpp:376
+#: guidialog.cpp:423 guidialog.cpp:456 guidialog.cpp:503 guidialog.cpp:536
+#: guidialog.cpp:583 guidialog.cpp:614 guidialog.cpp:661 guidialog.cpp:692
+#: guidialog.cpp:739 guidialog.cpp:770 guidialog.cpp:817 guidialog.cpp:848
+#: guidialog.cpp:895
+msgid "1"
+msgstr ""
+
+#: guidialog.cpp:162
+msgid "1.5"
+msgstr ""
+
+#: guidialog.cpp:163 guidialog.cpp:289 guidialog.cpp:313 guidialog.cpp:341
+#: guidialog.cpp:377 guidialog.cpp:395 guidialog.cpp:423 guidialog.cpp:457
+#: guidialog.cpp:475 guidialog.cpp:503 guidialog.cpp:537 guidialog.cpp:555
+#: guidialog.cpp:583 guidialog.cpp:615 guidialog.cpp:633 guidialog.cpp:661
+#: guidialog.cpp:693 guidialog.cpp:711 guidialog.cpp:739 guidialog.cpp:771
+#: guidialog.cpp:789 guidialog.cpp:817 guidialog.cpp:849 guidialog.cpp:867
+#: guidialog.cpp:895
+msgid "2"
+msgstr ""
+
+#: guidialog.cpp:165
+msgid ""
+"Number of stop bits, don't change this unless\n"
+"you know you're doing"
+msgstr ""
+
+#: guidialog.cpp:169
+msgid "Stop bits"
+msgstr ""
+
+#: guidialog.cpp:174
+msgid "Xon/Xoff"
+msgstr ""
+
+#: guidialog.cpp:175
+msgid "Hardware"
+msgstr ""
+
+#: guidialog.cpp:178
+msgid ""
+"Port flow control, don't change this unless\n"
+"you know you're doing"
+msgstr ""
+
+#: guidialog.cpp:182
+msgid "Flow Control"
+msgstr ""
+
+#: guidialog.cpp:192
+msgid "DTS On"
+msgstr ""
+
+#: guidialog.cpp:193 guidialog.cpp:198
+msgid "Leave unchecked or Arduino will reset"
+msgstr ""
+
+#: guidialog.cpp:197
+msgid "RTS On"
+msgstr ""
+
+#: guidialog.cpp:208
+msgid "Connect!"
+msgstr ""
+
+#: guidialog.cpp:210
+msgid "Click here to connect."
+msgstr ""
+
+#: guidialog.cpp:217
+msgid "Rescan ports"
+msgstr ""
+
+#: guidialog.cpp:227
+msgid "Serial"
+msgstr ""
+
+#: guidialog.cpp:235
+msgid "Date"
+msgstr ""
+
+#: guidialog.cpp:239
+msgid "Time"
+msgstr ""
+
+#: guidialog.cpp:243
+msgid "Active"
+msgstr ""
+
+#: guidialog.cpp:247
+msgid "Timer #"
+msgstr ""
+
+#: guidialog.cpp:251
+msgid "On Time"
+msgstr ""
+
+#: guidialog.cpp:255
+msgid "Off Time"
+msgstr ""
+
+#: guidialog.cpp:259
+msgid "Repeatable"
+msgstr ""
+
+#: guidialog.cpp:263
+msgid "Action"
+msgstr ""
+
+#: guidialog.cpp:267
+msgid "Week DayOff"
+msgstr ""
+
+#: guidialog.cpp:272
+msgid "Pick Alarm 0 Date"
+msgstr ""
+
+#: guidialog.cpp:277
+msgid "Pick Alarm 0 Time"
+msgstr ""
+
+#: guidialog.cpp:281 guidialog.cpp:371 guidialog.cpp:451 guidialog.cpp:531
+#: guidialog.cpp:609 guidialog.cpp:687 guidialog.cpp:765 guidialog.cpp:843
+msgid "On"
+msgstr ""
+
+#: guidialog.cpp:282
+msgid "Activate Alarm 0"
+msgstr ""
+
+#: guidialog.cpp:286 guidialog.cpp:290 guidialog.cpp:314 guidialog.cpp:341
+#: guidialog.cpp:378 guidialog.cpp:396 guidialog.cpp:417 guidialog.cpp:423
+#: guidialog.cpp:458 guidialog.cpp:476 guidialog.cpp:497 guidialog.cpp:503
+#: guidialog.cpp:538 guidialog.cpp:556 guidialog.cpp:577 guidialog.cpp:583
+#: guidialog.cpp:616 guidialog.cpp:634 guidialog.cpp:655 guidialog.cpp:661
+#: guidialog.cpp:694 guidialog.cpp:712 guidialog.cpp:733 guidialog.cpp:739
+#: guidialog.cpp:772 guidialog.cpp:790 guidialog.cpp:811 guidialog.cpp:817
+#: guidialog.cpp:850 guidialog.cpp:868 guidialog.cpp:889 guidialog.cpp:895
+msgid "3"
+msgstr ""
+
+#: guidialog.cpp:287 guidialog.cpp:341 guidialog.cpp:375 guidialog.cpp:423
+#: guidialog.cpp:455 guidialog.cpp:503 guidialog.cpp:535 guidialog.cpp:583
+#: guidialog.cpp:613 guidialog.cpp:661 guidialog.cpp:691 guidialog.cpp:739
+#: guidialog.cpp:769 guidialog.cpp:817 guidialog.cpp:847 guidialog.cpp:895
+msgid "0"
+msgstr ""
+
+#: guidialog.cpp:296
+msgid "Select Timer for Alarm 0"
+msgstr ""
+
+#: guidialog.cpp:301
+msgid "Pick ON duration for Timer 0"
+msgstr ""
+
+#: guidialog.cpp:306
+msgid "Pick OFF duration for Timer 0"
+msgstr ""
+
+#: guidialog.cpp:311 guidialog.cpp:393 guidialog.cpp:473 guidialog.cpp:553
+#: guidialog.cpp:631 guidialog.cpp:709 guidialog.cpp:787 guidialog.cpp:865
+msgid "Once"
+msgstr ""
+
+#: guidialog.cpp:312 guidialog.cpp:394 guidialog.cpp:474 guidialog.cpp:554
+#: guidialog.cpp:632 guidialog.cpp:710 guidialog.cpp:788 guidialog.cpp:866
+msgid "Ilimited"
+msgstr ""
+
+#: guidialog.cpp:320 guidialog.cpp:402 guidialog.cpp:482 guidialog.cpp:562
+#: guidialog.cpp:640 guidialog.cpp:718 guidialog.cpp:796 guidialog.cpp:874
+msgid "9"
+msgstr ""
+
+#: guidialog.cpp:321 guidialog.cpp:403 guidialog.cpp:483 guidialog.cpp:563
+#: guidialog.cpp:641 guidialog.cpp:719 guidialog.cpp:797 guidialog.cpp:875
+msgid "10"
+msgstr ""
+
+#: guidialog.cpp:322 guidialog.cpp:404 guidialog.cpp:484 guidialog.cpp:564
+#: guidialog.cpp:642 guidialog.cpp:720 guidialog.cpp:798 guidialog.cpp:876
+msgid "11"
+msgstr ""
+
+#: guidialog.cpp:323 guidialog.cpp:405 guidialog.cpp:485 guidialog.cpp:565
+#: guidialog.cpp:643 guidialog.cpp:721 guidialog.cpp:799 guidialog.cpp:877
+msgid "12"
+msgstr ""
+
+#: guidialog.cpp:324 guidialog.cpp:406 guidialog.cpp:486 guidialog.cpp:566
+#: guidialog.cpp:644 guidialog.cpp:722 guidialog.cpp:800 guidialog.cpp:878
+msgid "13"
+msgstr ""
+
+#: guidialog.cpp:325 guidialog.cpp:407 guidialog.cpp:487 guidialog.cpp:567
+#: guidialog.cpp:645 guidialog.cpp:723 guidialog.cpp:801 guidialog.cpp:879
+msgid "14"
+msgstr ""
+
+#: guidialog.cpp:326 guidialog.cpp:408 guidialog.cpp:488 guidialog.cpp:568
+#: guidialog.cpp:646 guidialog.cpp:724 guidialog.cpp:802 guidialog.cpp:880
+msgid "15"
+msgstr ""
+
+#: guidialog.cpp:327 guidialog.cpp:409 guidialog.cpp:489 guidialog.cpp:569
+#: guidialog.cpp:647 guidialog.cpp:725 guidialog.cpp:803 guidialog.cpp:881
+msgid "16"
+msgstr ""
+
+#: guidialog.cpp:328 guidialog.cpp:410 guidialog.cpp:490 guidialog.cpp:570
+#: guidialog.cpp:648 guidialog.cpp:726 guidialog.cpp:804 guidialog.cpp:882
+msgid "17"
+msgstr ""
+
+#: guidialog.cpp:329 guidialog.cpp:411 guidialog.cpp:491 guidialog.cpp:571
+#: guidialog.cpp:649 guidialog.cpp:727 guidialog.cpp:805 guidialog.cpp:883
+msgid "18"
+msgstr ""
+
+#: guidialog.cpp:330 guidialog.cpp:412 guidialog.cpp:492 guidialog.cpp:572
+#: guidialog.cpp:650 guidialog.cpp:728 guidialog.cpp:806 guidialog.cpp:884
+msgid "19"
+msgstr ""
+
+#: guidialog.cpp:331 guidialog.cpp:413 guidialog.cpp:493 guidialog.cpp:573
+#: guidialog.cpp:651 guidialog.cpp:729 guidialog.cpp:807 guidialog.cpp:885
+msgid "20"
+msgstr ""
+
+#: guidialog.cpp:332 guidialog.cpp:414 guidialog.cpp:494 guidialog.cpp:574
+#: guidialog.cpp:652 guidialog.cpp:730 guidialog.cpp:808 guidialog.cpp:886
+msgid "21"
+msgstr ""
+
+#: guidialog.cpp:333 guidialog.cpp:415 guidialog.cpp:495 guidialog.cpp:575
+#: guidialog.cpp:653 guidialog.cpp:731 guidialog.cpp:809 guidialog.cpp:887
+msgid "22"
+msgstr ""
+
+#: guidialog.cpp:334 guidialog.cpp:416 guidialog.cpp:496 guidialog.cpp:576
+#: guidialog.cpp:654 guidialog.cpp:732 guidialog.cpp:810 guidialog.cpp:888
+msgid "23"
+msgstr ""
+
+#: guidialog.cpp:335 guidialog.cpp:418 guidialog.cpp:498 guidialog.cpp:578
+#: guidialog.cpp:656 guidialog.cpp:734 guidialog.cpp:812 guidialog.cpp:890
+msgid "24"
+msgstr ""
+
+#: guidialog.cpp:337
+msgid "Pick number of repetitions for timer 0"
+msgstr ""
+
+#: guidialog.cpp:345
+msgid "Select which pin will activate Timer 0"
+msgstr ""
+
+#: guidialog.cpp:350 guidialog.cpp:430 guidialog.cpp:510 guidialog.cpp:590
+#: guidialog.cpp:668 guidialog.cpp:746 guidialog.cpp:824 guidialog.cpp:902
+msgid "M"
+msgstr ""
+
+#: guidialog.cpp:351 guidialog.cpp:431 guidialog.cpp:511 guidialog.cpp:591
+#: guidialog.cpp:669 guidialog.cpp:747 guidialog.cpp:825 guidialog.cpp:903
+msgid "T"
+msgstr ""
+
+#: guidialog.cpp:352 guidialog.cpp:432 guidialog.cpp:512 guidialog.cpp:592
+#: guidialog.cpp:670 guidialog.cpp:748 guidialog.cpp:826 guidialog.cpp:904
+msgid "W"
+msgstr ""
+
+#: guidialog.cpp:353 guidialog.cpp:433 guidialog.cpp:513 guidialog.cpp:593
+#: guidialog.cpp:671 guidialog.cpp:749 guidialog.cpp:827 guidialog.cpp:905
+msgid "t"
+msgstr ""
+
+#: guidialog.cpp:354 guidialog.cpp:434 guidialog.cpp:514 guidialog.cpp:594
+#: guidialog.cpp:672 guidialog.cpp:750 guidialog.cpp:828 guidialog.cpp:906
+msgid "F"
+msgstr ""
+
+#: guidialog.cpp:355 guidialog.cpp:435 guidialog.cpp:515 guidialog.cpp:595
+#: guidialog.cpp:673 guidialog.cpp:751 guidialog.cpp:829 guidialog.cpp:907
+msgid "S"
+msgstr ""
+
+#: guidialog.cpp:356 guidialog.cpp:436 guidialog.cpp:516 guidialog.cpp:596
+#: guidialog.cpp:674 guidialog.cpp:752 guidialog.cpp:830 guidialog.cpp:908
+msgid "s"
+msgstr ""
+
+#: guidialog.cpp:357 guidialog.cpp:437 guidialog.cpp:517 guidialog.cpp:597
+#: guidialog.cpp:675 guidialog.cpp:753 guidialog.cpp:831 guidialog.cpp:909
+msgid "Select days that the alarm will not be launched"
+msgstr ""
+
+#: guidialog.cpp:362
+msgid "Pick Alarm 1 Date"
+msgstr ""
+
+#: guidialog.cpp:367
+msgid "Pick Alarm 1 Time"
+msgstr ""
+
+#: guidialog.cpp:442
+msgid "Pick Alarm 2 Date"
+msgstr ""
+
+#: guidialog.cpp:447
+msgid "Pick Alarm 2 Time"
+msgstr ""
+
+#: guidialog.cpp:522
+msgid "Pick Alarm 3 Date"
+msgstr ""
+
+#: guidialog.cpp:527
+msgid "Pick Alarm 3 Time"
+msgstr ""
+
+#: guidialog.cpp:602
+msgid "Pick Alarm 4 Date"
+msgstr ""
+
+#: guidialog.cpp:680
+msgid "Pick Alarm 5 Date"
+msgstr ""
+
+#: guidialog.cpp:758
+msgid "Pick Alarm 6 Date"
+msgstr ""
+
+#: guidialog.cpp:836
+msgid "Pick Alarm 7 Date"
+msgstr ""
+
+#: guidialog.cpp:919
+msgid "Set Alarms"
+msgstr ""
+
+#: guidialog.cpp:920
+msgid "Set Alarms on the clock"
+msgstr ""
+
+#: guidialog.cpp:927
+msgid "Get Alarms"
+msgstr ""
+
+#: guidialog.cpp:928
+msgid "Refresh the alarms from the clock"
+msgstr ""
+
+#: guidialog.cpp:939
+msgid "Alarms"
+msgstr ""
+
+#: guidialog.cpp:956 guidialog.cpp:963
+msgid "Set RTC"
+msgstr ""
+
+#: guidialog.cpp:968
+msgid "Pin 0"
+msgstr ""
+
+#: guidialog.cpp:971
+msgid "Pin 1"
+msgstr ""
+
+#: guidialog.cpp:974
+msgid "Pin 2"
+msgstr ""
+
+#: guidialog.cpp:977
+msgid "Pin 3"
+msgstr ""
+
+#: guidialog.cpp:980
+msgid "Pin 4"
+msgstr ""
+
+#: guidialog.cpp:983
+msgid "Pin 5"
+msgstr ""
+
+#: guidialog.cpp:986
+msgid "Pin 6"
+msgstr ""
+
+#: guidialog.cpp:989
+msgid "Pin 7"
+msgstr ""
+
+#: guidialog.cpp:996
+msgid "Test pins"
+msgstr ""
+
+#: guidialog.cpp:1002
+msgid "IBM Plex Mono"
+msgstr ""
+
+#: guidialog.cpp:1013
+msgid "Console"
+msgstr ""
